@@ -1,0 +1,3 @@
+### Запрос эндпойнта hello
+GET http://localhost:8080/hello?name=Петька
+Language: en
